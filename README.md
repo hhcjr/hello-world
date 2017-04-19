@@ -1,2 +1,2 @@
 # hello-world
-Na
+Print ('yes')
